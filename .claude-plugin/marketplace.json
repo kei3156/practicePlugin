@@ -7,7 +7,7 @@
     {
       "name": "my-first-plugin",
       "description": "Code quality check with filesystem MCP",
-      "source": "file:///Users/Admin/Desktop/dev/ClaudeCode/practicePlugin",
+      "source": "file:///Users/Admin/Desktop/dev/ClaudeCode/practicePlugin/.claude-plugin",
       "version": "1.0.0",
       "tags": ["quality", "review"]
     }
