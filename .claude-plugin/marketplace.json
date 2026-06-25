@@ -1,5 +1,8 @@
 {
-  "name": "My Local Marketplace",
+  "name": "my-local-marketplace",
+  "owner": {
+    "name": "kei3156"
+  },
   "plugins": [
     {
       "name": "my-first-plugin",
