@@ -7,7 +7,7 @@
     {
       "name": "my-first-plugin",
       "description": "Code quality check with filesystem MCP",
-      "source": "kei3156/practicePlugin",
+      "source": "https://github.com/kei3156/practicePlugin/blob/main/plugin.json",
       "version": "1.0.0",
       "tags": ["quality", "review"]
     }
