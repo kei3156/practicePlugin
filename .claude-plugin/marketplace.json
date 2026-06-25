@@ -1,0 +1,13 @@
+{
+  "name": "My Local Marketplace",
+  "plugins": [
+    {
+      "name": "my-first-plugin",
+      "description": "Code quality check with filesystem MCP",
+      "source": "file:///Users/Admin/Desktop/dev/ClaudeCode/practicePlugin",
+      "version": "1.0.0",
+      "tags": ["quality", "review"]
+    }
+  ]
+}
+

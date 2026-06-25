@@ -1,0 +1,21 @@
+{
+    "name": "my-first-plugin",
+    "version": "1.0.0",
+    "description": "My first Claude Code plugin -code quality check",
+    "author": "kei3156",
+
+    "commands": [
+        {
+            "name": "quality-check",
+            "description": "Run a comprehensive code quality review on a file or directory",
+            "promptFile": "commands/quality-check.md"
+        }
+    ],
+    "mcpServers" : {
+        "filesystem": {
+            "type": "stdio",
+            "command": "npx",
+            "args": ["-y", "@modelcontextprotocol/server-filesystem", "."]
+        }
+    }
+}
